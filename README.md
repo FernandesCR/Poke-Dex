@@ -1,6 +1,6 @@
 # Desafio Poke Dex
 
-Projeto Pokedex Simples
+Projeto de Pokedex Simples
 
 Um projeto básico de Pokedex feito com HTML, CSS e JavaScript com consumo de APIs.
 
